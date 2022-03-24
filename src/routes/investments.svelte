@@ -4,7 +4,7 @@
 
 
 <svelte:head>
-	<title>Investments</title>
+	<title>Conrad Holdings: Investments</title>
 </svelte:head>
 
 <div class="mx-10 md:mx-14 lg:mx-24">
