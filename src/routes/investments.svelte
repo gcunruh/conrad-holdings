@@ -13,7 +13,7 @@
 	<h1 class="font-semibold text-xl tracking-wide">Prior or Current Investments</h1>
 	<div class="my-4">
         <span class="font-semibold">
-            Datavote
+            Datavore
         </span>
         - (Acq., Above Data)
 	</div>
