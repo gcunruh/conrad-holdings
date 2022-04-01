@@ -22,9 +22,9 @@
 		</a>
 </section> -->
 <section>
-	<div class="my-4 md:my-10 grid grid-cols-1 md:grid-cols-4 gap-4 lg:gap-24">
+	<div class="my-4 md:my-10 grid grid-cols-1 md:grid-cols-3 gap-4 lg:gap-24">
 		<Card header="Divination" description="Product studio dedicated to exceptional craftsmanship in technology" bg="circles" href="https://divination.dev" />
-		<Card header="Guccio Group" description="Opportunistic crypto fund" bg="banknote" href="/fund" />
+		<!-- <Card header="Guccio Group" description="Opportunistic crypto fund" bg="banknote" href="/fund" /> -->
 		<Card header="Third Degree" description="Newsletter on upcoming crypto projects and IDOs" bg="graphpaper" href="https://thirddegree.substack.com/" />
 		<Card header="Investments" description="Investments in technology businesses" bg="hexagons" href="/investments" />
 	</div>
